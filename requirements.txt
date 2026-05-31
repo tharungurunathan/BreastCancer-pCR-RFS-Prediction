@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas
+scikit-learn==1.5.2
+catboost==1.2.5
+lightgbm
+category_encoders
+umap-learn
+optuna
+joblib
+openpyxl
+xlrd
